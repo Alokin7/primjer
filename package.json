@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+<<<<<<< HEAD
+    "calculator": "^0.1.12"
+=======
+    "hello": "^0.6.2"
+>>>>>>> 6697fb5744e4301f0eb551e115b8ed80a9be0b0a
+  }
+}
